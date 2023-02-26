@@ -4,6 +4,8 @@ This Weather App is made using Reactjs (hooks,props,state) ,Html,css,javascript 
 
 Website is live at link : https://weather-app-anshul.netlify.app/
 
+Below I have uploaded the weather infomation of some location..
+
 Demo images : 
 ![shot=1](https://user-images.githubusercontent.com/88372010/221421474-aa241aef-01db-48db-a080-83ace1e9d771.png)
 ![shot-2](https://user-images.githubusercontent.com/88372010/221421502-06db5197-a78f-4684-a727-49a84fa04ef2.png)
