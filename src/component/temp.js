@@ -10,7 +10,7 @@ const Temp = () => {
   const [tempInfo, setTempInfo] = useState({});
 
   const getWeatherInfo = async () => {
-    try {
+    try{
 
       console.log(process.env)
     
